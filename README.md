@@ -32,7 +32,7 @@
 > All codes are written by Mohammad Rasoul Sohrabi(Rasoul Unlimited)
 
 ### Contact to Developer
-[![Email](https://img.shields.io/badge/Email-Rasoul.Unlimited@gmail.com-blue?logo=Gmail&logoColor=EA4335)](mailto:Rasol.unlimited@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Rasoul.Unlimited@gmail.com-blue?logo=Gmail&logoColor=EA4335)](mailto:Rasoul.unlimited@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-RasoulUnlimited-blue?logo=Discord&logoColor=5865F2)](https://www.discord.com/users/727228555959992463)
 [![Instagram](https://img.shields.io/badge/Instagram-Rasoul.Unlimited-blue?logo=instagram)](https://instagram.com/Rasoul.Unlimited/)
 [![Telegram](https://img.shields.io/badge/Telegram-RasoulUnlimited-blue?logo=Telegram)](https://t.me/RasoulUnlimited)
