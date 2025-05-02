@@ -1,4 +1,5 @@
-![Project C](https://github.com/RasoulUnlimited/Small-projects-with-c/assets/62307687/7673fc2c-631e-4d86-a72e-c832d1e05d5e)
+![Project C(Original)](https://github.com/user-attachments/assets/e47c5cc7-eb73-461f-b348-9bf5fe6ddc40)
+
 
 # Small-projects-with-c
 **Small projects done for Tehran Azad University.**
