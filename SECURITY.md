@@ -15,7 +15,7 @@ If you find a security issue, please **do not open a public issue**.
 
 Instead, report it privately via:
 
-📧 Email: [Rasoul.Unlimited@gmail.com]  
+📧 Email: Rasoul.Unlimited@gmail.com  
 ⏳ We aim to respond within **3 working days**, and to patch valid issues within **7–14 days**.
 
 When reporting a vulnerability, please include:
