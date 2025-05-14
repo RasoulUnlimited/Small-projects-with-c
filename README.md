@@ -30,7 +30,7 @@
 
 > The files have descriptions in Persian language
 
-> All codes are written by Mohammad Rasoul Sohrabi(Rasoul Unlimited)
+> All codes are written by Mohammad Rasoul Sohrabi (محمد رسول سهرابی) | Rasoul Unlimited (رسول آنلیمیتد)
 
 ### Contact to Developer
 [![Email](https://img.shields.io/badge/Email-Rasoul.Unlimited@gmail.com-blue?logo=Gmail&logoColor=EA4335)](mailto:Rasoul.unlimited@gmail.com)
