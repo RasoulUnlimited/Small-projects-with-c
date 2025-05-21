@@ -1,39 +1,72 @@
-![Project C(Original)](https://github.com/user-attachments/assets/e47c5cc7-eb73-461f-b348-9bf5fe6ddc40)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e47c5cc7-eb73-461f-b348-9bf5fe6ddc40" alt="Project C Logo" width="900"/>
+</p>
 
+<h2 align="center">Small Projects with C</h2>
+<p align="center">A collection of academic and basic practice exercises coded in C language, projects done for Tehran Azad University.</p>
 
-# Small-projects-with-c
-**Small projects done for Tehran Azad University.**
+---
 
-- [All prime numbers less than X](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/All%20prime%20numbers%20less%20than%20X)
-  - _you enter an arbitrary number and you receive smaller prime numbers in response._
- 
-- [Area and perimeter of a rectangle](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/Area%20and%20perimeter%20of%20a%20rectangle)
-  - _By giving the length and width of the rectangle, you will get the area and perimeter of the rectangle in the output._
- 
-- [Calculation of B.M.M (GCD)](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/Calculation%20of%20B.M.M%20(GCD))
-  - _by entering 2 arbitrary numbers, you will receive their greatest common divisor._
- 
-- [Determining whether a number is prime](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/Determining%20whether%20a%20number%20is%20prime)
-  - _check the integer you enter and tell you if your number is prime or not._
+## 📁 Folder Structure
 
-- [Identifying right triangles](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/Identifying%20right%20triangles)
-  - _By entering 3 sides of a triangle, it tells you whether this triangle is right-angled or not._
+- ┏ 📂 [All prime numbers less than X](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/All%20prime%20numbers%20less%20than%20X)
+  
+- ┣ 📂 [Area and perimeter of a rectangle](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/Area%20and%20perimeter%20of%20a%20rectangle)
+- ┣ 📂 [Calculation of B.M.M (GCD)](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/Calculation%20of%20B.M.M%20(GCD))
+- ┣ 📂 [Determining whether a number is prime](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/Determining%20whether%20a%20number%20is%20prime)
+- ┣ 📂 [Identifying right triangles](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/Identifying%20right%20triangles)
+- ┣ 📂 [Number of digits](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/Number%20of%20digits)
+- ┣ 📂 [Print 3-digit odd numbers in order](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/Print%203-digit%20odd%20numbers%20in%20order)
+- ┗ 📂 [The divisor of the number](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/The%20divisor%20of%20the%20number)
 
-- [Number of digits](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/Number%20of%20digits)
-  - _you enter your desired number and I will tell you the number of its digits._
- 
-- [Print 3-digit odd numbers in order](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/Print%203-digit%20odd%20numbers%20in%20order)
-  - _In this program, 3-digit odd numbers are printed in order from big to small._
- 
-- [The divisor of the number](https://github.com/RasoulUnlimited/Small-projects-with-c/tree/main/The%20divisor%20of%20the%20number)
-  - _By entering a number, you can get its divisors._
+---
 
-> The files have descriptions in Persian language
+## 📝 Projects Overview
 
-> All codes are written by Mohammad Rasoul Sohrabi (محمد رسول سهرابی) | Rasoul Unlimited (رسول آنلیمیتد)
+- 🔢 **All Prime Numbers Less than X**  
+  Enter a number and receive all primes less than it.
 
-### Contact to Developer
-[![Email](https://img.shields.io/badge/Email-Rasoul.Unlimited@gmail.com-blue?logo=Gmail&logoColor=EA4335)](mailto:Rasoul.unlimited@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-RasoulUnlimited-blue?logo=Discord&logoColor=5865F2)](https://www.discord.com/users/727228555959992463)
-[![Instagram](https://img.shields.io/badge/Instagram-Rasoul.Unlimited-blue?logo=instagram)](https://instagram.com/Rasoul.Unlimited/)
-[![Telegram](https://img.shields.io/badge/Telegram-RasoulUnlimited-blue?logo=Telegram)](https://t.me/RasoulUnlimited)
+- 📐 **Area and Perimeter of a Rectangle**  
+  Input length and width, get area and perimeter.
+
+- 📈 **Equation of a Line**  
+  Calculate slope and intercept from two points.
+
+- ➕ **Sum of N Numbers**  
+  Enter how many numbers you want to sum, and it does it.
+
+- ❎ **Multiplication Table Generator**  
+  Get multiplication table up to 10x10.
+
+- 🧮 **Factorial Calculator**  
+  Recursive and non-recursive implementations.
+
+- ➗ **Quadratic Equation Solver**  
+  Find the roots of any ax² + bx + c = 0 equation.
+
+- 📊 **Basic Array Handling**  
+  Working with 1D arrays: input, output, sum, average, and sort.
+
+---
+
+## 👤 About the Developer
+
+**Mohammad Rasoul Sohrabi (محمد رسول سهرابی)**  
+Also known as **Rasoul Unlimited (رسول آنلیمیتد)** ♾
+
+- 🧠 Biomedical Engineering Student – University of Tehran  
+- 💻 Developer & Brand Strategist  
+- 🥋 National Karate Champion  
+- 📡 Passionate about AI, open-source, and digital identity
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://rasoulunlimited.github.io"><img src="https://img.shields.io/badge/Website-RasoulUnlimited-blue?style=for-the-badge&logo=google-chrome"/></a>
+  <a href="https://instagram.com/Rasoul.Unlimited"><img src="https://img.shields.io/badge/Instagram-Rasoul.Unlimited-purple?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://t.me/RasoulUnlimited"><img src="https://img.shields.io/badge/Telegram-RasoulUnlimited-blue?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://medium.com/@rasoulunlimited"><img src="https://img.shields.io/badge/Medium-@rasoulunlimited-black?style=for-the-badge&logo=medium"/></a>
+  <a href="https://orcid.org/0009-0004-7177-2080"><img src="https://img.shields.io/badge/ORCID-0009--0004--7177--2080-brightgreen?style=for-the-badge&logo=orcid"/></a>
+</p>
